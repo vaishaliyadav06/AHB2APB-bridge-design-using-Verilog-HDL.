@@ -1,5 +1,5 @@
 # AHB2APB-bridge-design-using-Verilog-HDL.
-The AHB2APB bridge design is implemented in Verilog HDL for read, write, read burst, write burst and write transfers, and all these designs are simulated using the Xilinx ISE software. By implementing the timeout concept, data loss can be minimized, and the design can become more extensible.
+The AHB2APB bridge design is implemented in Verilog HDL for read, write, read burst, write burst and write transfers, and all these designs are simulated using the Xilinx Vivado software. By implementing the timeout concept, data loss can be minimized, and the design can become more extensible.
 The mission of AMBA is to assist embedded system designers in overcoming issues such as low power design, facilitating rightfirst-time development of Embedded Microcontroller Products with one or more CPUs or signal processors, being technologyindependent, and encouraging modular systems. To reduce the amount of silicon infrastructure needed to support efficient onchip and off-chip connectivity for both operation and manufacturing test.
 The focus of this research paper is on the synthesis and simulation of an AMBA-based AHB2APB Bridge. AHB2APB Bridge is
 a bridge that connects the AHB and APB buses. The communication gap between low bandwidth peripherals on APB and high
